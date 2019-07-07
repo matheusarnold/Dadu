@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dice</string>
+    <string name="title">Kocok Dadu!</string>
+    <string name="desc">Sentuh gambar dadu di bawah ini untuk mulai mengocok dadu</string>
+</resources>
